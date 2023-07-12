@@ -139,10 +139,7 @@ p {
     justify-content: space-around;
 }
 
-@media only screen and (max-width: 1000px) {
-    .project-container {
-        display: flex;
-        flex-wrap: wrap;
+
     }
 }
 
@@ -176,15 +173,7 @@ a {
 }
 
 
-@media only screen and (max-width: 1000px) {
-    .hamburger {
-        display: block;
-        border: 0;
-        background-color: transparent;
-        color: white;
-        font-size: 30px;
-        margin: 20px;
-        align-self: flex-end;
+
     }
 
     ul {
