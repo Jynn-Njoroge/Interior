@@ -145,13 +145,13 @@ p {
 
 .project-image {
     margin-top: 25px;
-    width: 250px;
-    border-radius: 125px;
+    width: 250rem;
+    border-radius: 125rem;
 }
 
 hr {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
 
 .project-link {
@@ -179,7 +179,7 @@ a {
     ul {
         display: none;
         background-color: #2b2c38;
-        margin: 0ppx;
+        margin: 0;
     }
 
     ul.show {
